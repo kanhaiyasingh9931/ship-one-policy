@@ -1,8 +1,8 @@
 # Privacy Policy for Ship One / Ship Jam
 
 **Effective Date:** November 10, 2026  
-**Developer:** SeeOrbit Games  
-**Contact:** support@seeorbit.xyz  
+**Developer:** CozyBitsKsr  
+**Contact:** cozybitsksr@gmail.com  
 
 This Privacy Policy describes how **Ship One** (also known as **Ship Jam**) collects, uses, and shares data when you play our mobile game.
 
